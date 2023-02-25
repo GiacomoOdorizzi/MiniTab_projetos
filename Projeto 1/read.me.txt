@@ -1,0 +1,20 @@
+Neste projeto capitei dados da base de dados brasileira sobre educação e a partir destes as analises seguem abaixo
+a ideia inicial é ver a relação entre coeficiente de rendimento X modelo de instituição(privadaXpublica)
+
+No primeiro tratamento achei necessario julgar a normalidade para esclarecer qual metodo estatistico iria utilizar
+entao tratei os dados e iniciei os testes.
+
+o valor p to teste deu abaixo de o,05 indicando que os dados nao condiziam com a distribuição normal.
+
+De acordo com este resultado posso aplicar testes estatisticos para dados que nao apresentam a distribuição normal, no entanto no dentro
+do curso de minitab, até o presente momento nao aprendi como executa-los(estou no modulo 3 aula 10), decido entao aplicar uma correção dos
+dados. A ferramenta de carta de controle nao faria sentido nesse momento. Nesse caso decido separar por escola os dados
+e posterios fazer as analises. Apos tratados esses dados, a taxa de aprovação e o indicador de rendimento do ensino fundamental possuem 
+normalidade!
+
+Realizei um teste t para ver se possuia relação entre as duas e o valor de p<0,05, concluo entao que nao existe relação entre o rendimento
+e a taxa de aprovação, dessa forma o aluno de ensino fundamental parece passar independente de seu rendimento.
+#####################################################################################
+
+os dados de aprovação da escola privada nao apresentam normalidade, bem como os dados de aprovação, tentei realizar o teste t mesmo assim
+no entanto o intervalo de confiança nao apresentou bons valores, logo nao consigo concluir nada com essa analise
