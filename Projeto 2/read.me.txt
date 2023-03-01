@@ -1,0 +1,4 @@
+Neste projeto realizo um relatorio de RR. 
+
+neste exercicio fornecido pela voitto achei valido trazer para o giuthub, pois é um exercicio muito bom para realizar 
+as medições de controle e qualidade de processos
